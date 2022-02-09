@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="879444ce-336d-436c-8c9f-abb91393da1a" name="Changes" comment="" />
+    <list default="true" id="879444ce-336d-436c-8c9f-abb91393da1a" name="Changes" comment="checking for prime numbers and validnost and zapisnaya knizka">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zapisnaya knizka.py" beforeDir="false" afterPath="$PROJECT_DIR$/zapisnaya knizka.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="esson2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24pApYFQj8mduFyJV2FyHKsjqvH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,9 +38,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zapisnaya knizka.py" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="zapisnaya knizka" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="nazar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -33,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zapisnaya knizka.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,6 +72,76 @@
       <option name="presentableId" value="Default" />
       <updated>1644317338808</updated>
     </task>
+    <task id="LOCAL-00001" summary="add fail">
+      <created>1644317838273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644317838274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="While True">
+      <created>1644318245429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644318245429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="print1">
+      <created>1644319131400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644319131400</updated>
+    </task>
+    <task id="LOCAL-00004" summary="checking for prime numbers">
+      <created>1644321311095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644321311095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="checking for prime numbers and validnost">
+      <created>1644322593663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644322593663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="checking for prime numbers and validnost and zapisnaya knizka">
+      <created>1644391937611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644391937611</updated>
+    </task>
+    <task id="LOCAL-00007" summary="checking for prime numbers and validnost and zapisnaya knizka">
+      <created>1644392024852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644392024852</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add fail" />
+    <MESSAGE value="While True" />
+    <MESSAGE value="print1" />
+    <MESSAGE value="checking for prime numbers" />
+    <MESSAGE value="checking for prime numbers and validnost" />
+    <MESSAGE value="checking for prime numbers and validnost and zapisnaya knizka" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking for prime numbers and validnost and zapisnaya knizka" />
   </component>
 </project>
